@@ -45,6 +45,10 @@ Passo 16 - Publica-lo no power Bi service.
 
 
 
-![img.png](img.png)
 
-![img_1.png](img_1.png)
+![image](https://github.com/PabuloMelo/Projeto-Dio-PowerBI_Extraindo_Transformando_Dados_Com_my_sql_e_Gerando_Relaorio/assets/148504144/f58123fb-0e3f-41e2-952e-7e91e973d4f5)
+
+![image](https://github.com/PabuloMelo/Projeto-Dio-PowerBI_Extraindo_Transformando_Dados_Com_my_sql_e_Gerando_Relaorio/assets/148504144/840da771-eed2-40fa-a194-1a30f52aad53)
+
+![image](https://github.com/PabuloMelo/Projeto-Dio-PowerBI_Extraindo_Transformando_Dados_Com_my_sql_e_Gerando_Relaorio/assets/148504144/671f92b5-2b2a-4c93-851b-386b64c45840)
+
